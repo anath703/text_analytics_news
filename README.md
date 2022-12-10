@@ -13,4 +13,5 @@ The data comes from newzy dataset and can be found here: https://virginia.app.bo
 - LIBRARY.csv (found in Tables folder) - Library table with information about each article used in this analysis
 - TOKENS.csv (found in Tables folder) - Tokens table for articles by both Politico and Power Line
 - VOCAB.csv (found in Tables folder) - Vocab table for articles by both Politico and Power Line
+- salex_nrc.csv - CSV file with NRC Emotion Lexicon (used for sentiment analysis)
 - Final_Report.pdf - PDF showcasing my analysis and insights
