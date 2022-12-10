@@ -1,4 +1,6 @@
 # DS 5001 Text Analytics Final Project
+- Anoop Nath
+- 12/09/2022
 
 ## Introduction
 In this project, I explored news articles from Politico and Power Line from October 2013 to February 2020. I accomplished this by creating word clouds, performing PCA, topic modeling, and sentiment analysis.
